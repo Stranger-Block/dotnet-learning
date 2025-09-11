@@ -13,10 +13,12 @@ namespace UdemyProject.Course_Fundamentals.System_Console_Class
             Console.WriteLine("Hi");
             Console.WriteLine("My Name Is");
             Console.WriteLine("Smit Bhanushali");
+            Console.WriteLine("Bhanushali");
 
             Console.Write("Hi");
             Console.Write("My Name Is");
             Console.Write("Smit Bhanushali");
+            Console.Write("Bhanushali");
 
             Console.ReadKey();
         }
